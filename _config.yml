@@ -1,0 +1,17 @@
+markdown: rdiscount
+permalink: /:title/
+url: http://b-bicycle.github.io/
+name: b_b Blog
+author: b_b
+qq: 875284899
+email: 875284899@qq.com
+duoshuo: 
+beian: 粤ICP
+cnzz: 123456
+weibo: 
+github: b-bicycle
+pygments: true
+safe: true
+paginate: 20
+about: "这里是 B_B 的个人博客，创建于 2013 年。使用 Jekyll @ GitHub。<br />"
+
