@@ -13,7 +13,8 @@ tags: 爬山 徒步
 
 >>KML轨迹文件[下载](/assets/download/20131116_火龙线.zip)
 
-![轨迹图](/assets/images/2013-11/20131116-kml.JPG)
-![几个人列队走](/assets/images/2013-11/IMG_20131116_132614.jpeg)
-![碉堡](/assets/images/2013-11/IMG_20131116_162455.jpeg)
-![采石场](/assets/images/2013-11/IMG_20131116_175329.jpeg)
+![轨迹图](/assets/images/2013/20131116_火龙线-kml.JPG)
+
+![几个人列队走](/assets/images/2013/IMG_20131116_132614.jpeg)
+![碉堡](/assets/images/2013/IMG_20131116_162455.jpeg)
+![采石场](/assets/images/2013/IMG_20131116_175329.jpeg)
