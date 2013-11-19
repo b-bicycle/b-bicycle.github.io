@@ -2,7 +2,7 @@
 layout: post
 title: '20120812_佛山南风古灶'
 category: 户外
-tags: 单车 骑行
+tags: 骑行
 ---
 
 >骑行一次长线。 感觉挺好的。
