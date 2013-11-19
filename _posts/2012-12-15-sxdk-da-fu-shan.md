@@ -12,5 +12,5 @@ tags: 骑行
 ![轨迹图](/assets/images/2012/20121215_石岗路渡口-大夫山.JPG)
 
 ![](/assets/images/2012/IMG_20121215_090101.jpg)
-![](/assets/images/2012/IMG_20121215_090101.jpg)
-![](/assets/images/2012/IMG_20121215_090101.jpg)
+![](/assets/images/2012/IMG_20121215_090124.jpg)
+![](/assets/images/2012/IMG_20121215_091932.jpg)
