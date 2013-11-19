@@ -2,7 +2,7 @@
 layout: post
 title: '20101031_增城绿道'
 category: 户外
-tags: 单车
+tags: 骑行
 ---
 
 >增江两岸绿道骑行。
