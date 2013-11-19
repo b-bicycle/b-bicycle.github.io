@@ -19,7 +19,7 @@ tags: 单车 骑行
 
 >>KML轨迹文件[下载](/assets/download/20120812_佛山南风古灶-kml.zip)
 
-![轨迹图](/assets/images/2012/20131116-kml.JPG)
+![轨迹图](/assets/images/2012/20120812_佛山南风古灶.JPG)
 
 ![](/assets/images/2012/IMG_20120812_120030.jpg)
 ![](/assets/images/2012/IMG_20120812_141216.jpg)
