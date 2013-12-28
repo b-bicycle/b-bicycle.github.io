@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20131228_牛天凤火'
+title: '20131228_牛天凤火-近路'
 category: 户外
 tags: 爬山 徒步
 ---
